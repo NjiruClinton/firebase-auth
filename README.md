@@ -1,1 +1,1 @@
-##Change firebase config in './firebase'
+## Change firebase config in './firebase'
